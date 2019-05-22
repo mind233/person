@@ -1,0 +1,30 @@
+01
+Le Van Luyen
+Male
+01/01/2000
+69 Truong Trinh,hai chau, da nang
+123456789
+levanluyen@gmail.com
+student
+500000
+5
+02
+Bui Duc Duong
+Male
+06/09/2000
+123 Nguyen Van Linh,hai chau, da nang
+123123789
+duongdeptrai@gmail.com
+student
+600000
+6
+03
+Ha Y Thao
+Female
+09/06/2000
+69 Nguyen Tat Thanh,hai chau, da nang
+0905696969
+thaoFour@gmail.com
+student
+700000
+5

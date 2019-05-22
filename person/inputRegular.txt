@@ -1,0 +1,30 @@
+01
+Le Van A
+Male
+23/3/2000
+k206/29 Dong da,hai chau, da nang
+0905968027
+aaaaaaa@gmail.com
+student
+1000000
+5
+02
+Nguyen Van B
+Famale
+20/8/2000
+60 hang thuyen,hai chau, da nang
+123123
+bbbbb@gmail.com
+student
+1200000
+10
+03
+Tran Thi C
+Female
+14/5/2000
+01 Le Thanh Ton,hai chau, da nang
+456465
+ccccccc@gmail.com
+student
+800000
+7
